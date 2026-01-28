@@ -1,0 +1,7 @@
+{
+  "name": "Accenture - AI Executive Assistant",
+  "description": "An AI-powered personal assistant designed for Accenture Managing Directors to automate meeting preparation, email intelligence, and industry research.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
